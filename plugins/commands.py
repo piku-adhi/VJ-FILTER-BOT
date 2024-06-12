@@ -42,26 +42,10 @@ async def start(client, message):
         if PREMIUM_AND_REFERAL_MODE == True:
             buttons = [[
                 InlineKeyboardButton('📮 ᴄᴏᴍᴘʟᴀɪɴᴛꜱ/ ꜰᴇᴇᴅʙᴀᴄᴋ', url='http://t.me/PmsHereRobot')
-            ],[
-                InlineKeyboardButton('ᴍᴇɴᴜ ⚙', callback_data='help'),
-                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-                InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/chiyaan_dhruv'),
-                InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
-            ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟʟᴜ ᴛᴏʀᴇɴᴛᴢ', url='http://t.me/Mallutorentztg')
             ]]
         else:
             buttons = [[
                 InlineKeyboardButton('📮 ᴄᴏᴍᴘʟᴀɪɴᴛꜱ/ ꜰᴇᴇᴅʙᴀᴄᴋ', url='http://t.me/PmsHereRobot')
-            ],[
-                InlineKeyboardButton('ᴍᴇɴᴜ ⚙', callback_data='help'),
-                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-                InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/chiyaan_dhruv'),
-                InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
-            ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟʟᴜ ᴛᴏʀᴇɴᴛᴢ', url='http://t.me/Mallutorentztg')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMAQ") 
@@ -112,26 +96,10 @@ async def start(client, message):
         if PREMIUM_AND_REFERAL_MODE == True:
             buttons = [[
                 InlineKeyboardButton('📮 ᴄᴏᴍᴘʟᴀɪɴᴛꜱ/ ꜰᴇᴇᴅʙᴀᴄᴋ', url='http://t.me/PmsHereRobot')
-            ],[
-                InlineKeyboardButton('ᴍᴇɴᴜ ⚙', callback_data='help'),
-                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-                InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/chiyaan_dhruv'),
-                InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
-            ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟʟᴜ ᴛᴏʀᴇɴᴛᴢ', url='http://t.me/Mallutorentztg')
             ]]
         else:
             buttons = [[
                 InlineKeyboardButton('📮 ᴄᴏᴍᴘʟᴀɪɴᴛꜱ/ ꜰᴇᴇᴅʙᴀᴄᴋ', url='http://t.me/PmsHereRobot')
-            ],[
-                InlineKeyboardButton('ᴍᴇɴᴜ ⚙', callback_data='help'),
-                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-                InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/chiyaan_dhruv'),
-                InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
-            ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟʟᴜ ᴛᴏʀᴇɴᴛᴢ', url='http://t.me/Mallutorentztg')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         await message.reply_photo(
@@ -163,26 +131,10 @@ async def start(client, message):
             if PREMIUM_AND_REFERAL_MODE == True:
                 buttons = [[
                 InlineKeyboardButton('📮 ᴄᴏᴍᴘʟᴀɪɴᴛꜱ/ ꜰᴇᴇᴅʙᴀᴄᴋ', url='http://t.me/PmsHereRobot')
-            ],[
-                InlineKeyboardButton('ᴍᴇɴᴜ ⚙', callback_data='help'),
-                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-                InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/chiyaan_dhruv'),
-                InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
-            ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟʟᴜ ᴛᴏʀᴇɴᴛᴢ', url='http://t.me/Mallutorentztg')
             ]]
             else:
                 buttons = [[
                 InlineKeyboardButton('📮 ᴄᴏᴍᴘʟᴀɪɴᴛꜱ/ ꜰᴇᴇᴅʙᴀᴄᴋ', url='http://t.me/PmsHereRobot')
-            ],[
-                InlineKeyboardButton('ᴍᴇɴᴜ ⚙', callback_data='help'),
-                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-                InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/chiyaan_dhruv'),
-                InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
-            ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟʟᴜ ᴛᴏʀᴇɴᴛᴢ', url='http://t.me/Mallutorentztg')
             ]]
             reply_markup = InlineKeyboardMarkup(buttons)
             m=await message.reply_sticker("CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMAQ") 
