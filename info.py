@@ -20,7 +20,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'TechVJBot')
 API_ID = int(environ.get('API_ID', '23446171'))
 API_HASH = environ.get('API_HASH', '36da2a7ae4dc8861169739cf77fe6a81')
-BOT_TOKEN = environ.get('BOT_TOKEN', "5192109951:AAE3vDwH_rAtYHlLekxeT_RJF-gdLWVxRW4")
+BOT_TOKEN = environ.get('BOT_TOKEN', "5192109951:AAFfD3N0tpFnIcYtGOWIws4-n8QTsivdbLI")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
@@ -51,7 +51,7 @@ FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-100
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://MT_FilmBot:pmshere@cluster0.px0yt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://shaalexanderlukose:6cEI5hQ8CrmNUhkr@cluster0.u7m6px7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'telegram_files')
 
