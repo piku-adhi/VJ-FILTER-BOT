@@ -12,7 +12,7 @@ class script(object):
 
 @mallutorentgroup 👈 Mᴏᴠɪᴇ RᴇQᴜᴇꜱᴛ Hᴇʀᴇ , മൂവി ഇവിടെ ചോദിക്കുക, यहां फिल्म के लिए पूछें..!!!
 
-<a href="telegram.me/mallutorentztg">Powered by Mallu Torent</a>™</b>"""
+<a href="telegram.me/adithyanedanaduofficial">Powered by Mallu Torent</a>™</b>"""
 
     HELP_TXT = """<b>{} Use below buttons for further navigation 💬</b>"""
 
@@ -22,7 +22,7 @@ class script(object):
 ⚠️  Type correct spelling of the movie from google you're searching for..!!!
 ‼️  If the movie doesn't come out despite hitting the correct spelling, the DVD OTT release might not have happened...
 
-🔅 Contact @Chiyaan_Dhruv for Paid Join Acceptor Bot at low cost.</i></b>"""
+🔅 Contact @mrdevilmater for Paid Join Acceptor Bot at low cost.</i></b>"""
 
     SUBSCRIPTION_TXT = """
 <b>ʀᴇғᴇʀʀᴇ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ʏᴏᴜʀ ғʀɪᴇɴᴅs, ғᴀᴍɪʟʏ, ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ {}
@@ -58,7 +58,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/vjupdates2/3)</code>
+<code>[Button Text](buttonurl:https://t.me/adithyanedanaduofficial)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -91,9 +91,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=http://t.me/chiyaan_dhruv>Ｄｒ⚕️ ᴀᴅɪᴛʏᴀ</a></b>
+ <b>✯ Maintained by : <a href=http://t.me/mrdevilmater>ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻</a></b>
   
- <b>✯ Join here : <a href=http://t.me/Mallutorentztg>❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟʟᴜ ᴛᴏʀᴇɴᴛᴢ</a></b> 
+ <b>✯ Join here : <a href=http://t.me/adithyanedanaduofficial>❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ Genius Designs</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
