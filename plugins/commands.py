@@ -49,7 +49,7 @@ async def start(client, message):
                 InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/mrdevilmater'),
                 InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
             ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟʟᴜ ᴛᴏʀᴇɴᴛᴢ', url='http://t.me/adithyanedanaduofficial')
+                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻', url='http://t.me/adithyanedanaduofficial')
             ]]
         else:
             buttons = [[
@@ -61,7 +61,7 @@ async def start(client, message):
                 InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/mrdevilmater'),
                 InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
             ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟʟᴜ ᴛᴏʀᴇɴᴛᴢ', url='http://t.me/adithyanedanaduofficial')
+                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻', url='http://t.me/adithyanedanaduofficial')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMAQ") 
@@ -119,7 +119,7 @@ async def start(client, message):
                 InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/mrdevilmater'),
                 InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
             ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟʟᴜ ᴛᴏʀᴇɴᴛᴢ', url='http://t.me/adithyanedanaduofficial')
+                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻', url='http://t.me/adithyanedanaduofficial')
             ]]
         else:
             buttons = [[
@@ -131,7 +131,7 @@ async def start(client, message):
                 InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/mrdevilmater'),
                 InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
             ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟʟᴜ ᴛᴏʀᴇɴᴛᴢ', url='http://t.me/adithyanedanaduofficial')
+                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻', url='http://t.me/adithyanedanaduofficial')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         await message.reply_photo(
@@ -170,7 +170,7 @@ async def start(client, message):
                 InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/mrdevilmater'),
                 InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
             ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟʟᴜ ᴛᴏʀᴇɴᴛᴢ', url='http://t.me/adithyanedanaduofficial')
+                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻', url='http://t.me/adithyanedanaduofficial')
             ]]
             else:
                 buttons = [[
@@ -182,7 +182,7 @@ async def start(client, message):
                 InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/mrdevilmater'),
                 InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
             ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟʟᴜ ᴛᴏʀᴇɴᴛᴢ', url='http://t.me/adithyanedanaduofficial')
+                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻', url='http://t.me/adithyanedanaduofficial')
             ]]
             reply_markup = InlineKeyboardMarkup(buttons)
             m=await message.reply_sticker("CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMAQ") 
