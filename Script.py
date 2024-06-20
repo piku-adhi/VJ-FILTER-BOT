@@ -4,25 +4,25 @@
 
 
 class script(object):
-    START_TXT = """<b>Heya {} 👋 I'm <a href=https://t.me/{}>{}</a> !
+    START_TXT = """<b>Heya {} 👋 , 🎬 Welcome to <a href=https://t.me/{}>{}</a> ! 🎬
 
-⚠️📌 ᴡᴇ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ᴀʟʟ ᴛᴏʀᴇɴᴛ ꜰɪʟᴇꜱ ꜰɪʀꜱᴛ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ, torrentൽ വരുന്ന എല്ലാ ഫയലും ആദ്യം തന്നെ ഞ്ങ്ങൾ upload ചെയ്യുന്നതാണ്, हम हर टोरेंट फाइल को पहले अपलोड करते हैं
+📥 How it works:
 
-⚠️📌 ᴡᴇ ᴡᴏɴ'ᴛ ᴘʀᴏᴠɪᴅᴇ ʏᴇꜱꜱᴍᴀᴀ ꜱᴇʀɪᴇꜱ ᴀɴᴅ ᴛʜɪꜱ ʙᴏᴛ ᴡᴏɴ'ᴛ ᴘʀᴏᴍᴏᴛᴇ ᴘᴏʀɴᴏɢʀᴀᴘʜɪᴄ ᴄᴏɴᴛᴇɴᴛꜱ, ഞങ്ങൾ yessma സീരീസും അശ്ലീല വീഡിയോകളും promote ചെയ്യുന്നത് അല്ല, हम येस्मा सीरीज प्रदान नहीं करेंगे और यह बॉट अश्लील सामग्री को बढ़ावा नहीं दे सकता है
+<i>1. Send the name of the movie you want in this chat.
+2. Our bot will search for the movie and send you the file.
+3. Contact <a href="https://t.me/adithyanedanaduofficial">support</a> if you face any issues</i>
 
-@mallutorentgroup 👈 Mᴏᴠɪᴇ RᴇQᴜᴇꜱᴛ Hᴇʀᴇ , മൂവി ഇവിടെ ചോദിക്കുക, यहां फिल्म के लिए पूछें..!!!
+<blockquote>🔎 Note: Please ensure you send the movie name in the correct format by checking on Google. This helps us find the exact movie you want quickly and accurately.</blockquote>
 
-<a href="telegram.me/adithyanedanaduofficial">Powered by Mallu Torent</a>™</b>"""
+🍿 Enjoy your movies with <a href=https://t.me/{}>{}</a> !</b>"""
 
-    HELP_TXT = """<b>{} Use below buttons for further navigation 💬</b>"""
+    HELP_TXT = """<b>{} Choose an option from the menu below to proceed 💬</b>"""
 
-    ABOUT_TXT = """<b>⚠️  Spelling ശരിയായി ഗൂഗിൾ നോക്കി അടിച്ചാൽ മാത്രമേ result കിട്ടുക ഒള്ളൂ..!!!
-‼️  ശരിയായ സ്പെല്ലിങ് അടിച്ചിട്ടും  മൂവി വന്നില്ലെങ്കിൽ  DVD OTT റിലീസ് ആയിട്ടുണ്ടാകില്ല...
-       ➖➖➖➖➖➖➖➖➖➖➖➖➖
-⚠️  Type correct spelling of the movie from google you're searching for..!!!
-‼️  If the movie doesn't come out despite hitting the correct spelling, the DVD OTT release might not have happened...
-
-🔅 Contact @mrdevilmater for Paid Join Acceptor Bot at low cost.</i></b>"""
+    ABOUT_TXT = """<b>⚠️ Make sure to type the correct spelling of the movie from Google to get accurate results!
+‼️ If the movie still doesn't appear, it might not have been released on DVD or OTT yet.
+      ➖➖➖➖➖➖➖➖➖➖➖➖➖
+⚠️ Type the correct movie spelling as found on Google!
+‼️ If the movie doesn't show up even with the correct spelling, it might not be available on DVD or OTT yet.</b>"""
 
     SUBSCRIPTION_TXT = """
 <b>ʀᴇғᴇʀʀᴇ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ʏᴏᴜʀ ғʀɪᴇɴᴅs, ғᴀᴍɪʟʏ, ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ {}
@@ -100,15 +100,9 @@ my features Stay here new features coming soon...
   
  ./info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code> 
   
- ./song - Download any song [<code>example /song vaa vaathi song</code>] 
+ ./song - Download any song [<code>example /song vaa vaathi song</code>]  
   
- ./telegraph - <code>Telegraph generator sen under 5MB video or photo I give telegraph link</code> 
-  
- ./tts - <code>This command usage text to voice converter</code> 
-  
- ./video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/Aiue8PMuD-k</code>]
-
-./font - This command usage stylish and cool font generator [<code>example /font hi</code>]"""
+ ./video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/Aiue8PMuD-k</code>]"""
 
 
     ADMIN_TXT = """ʜᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs
@@ -160,19 +154,17 @@ Nᴀᴍᴇ - {}"""
     CUDNT_FND = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}
 ᴅɪᴅ ʏᴏᴜ ᴍᴇᴀɴ ᴀɴʏ ᴏɴᴇ ᴏꜰ ᴛʜᴇꜱᴇ?"""
 
-    I_CUDNT = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ {} 😕
+    I_CUDNT = """<b>We couldn't find any files matching your request {} 😕
 
-ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
+Please double-check your spelling on Google and try again 😃
 
-ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
+Movie request format 👇
+<blockquote>Example: Uncharted or Uncharted 2022 or Uncharted En</blockquote>
 
-ᴇxᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 or Uncharted En
+Series request format 👇
+<blockquote>Example: Loki S01 or Loki S01E04 or Lucifer S03E24</blockquote>
 
-ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
-
-ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
-
-🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
+🚯 Avoid using ➠ ':(!,./</b>"""
 
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
