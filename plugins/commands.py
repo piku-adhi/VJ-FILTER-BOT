@@ -41,27 +41,17 @@ async def start(client, message):
     if len(message.command) != 2:
         if PREMIUM_AND_REFERAL_MODE == True:
             buttons = [[
-                InlineKeyboardButton('📮 ᴄᴏᴍᴘʟᴀɪɴᴛꜱ/ ꜰᴇᴇᴅʙᴀᴄᴋ', url='http://t.me/mrdevilmater')
-            ],[
                 InlineKeyboardButton('ᴍᴇɴᴜ ⚙', callback_data='help'),
-                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/{temp.U_NAME}?startgroup=true')
+                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/mytelefilterbot?startgroup=true')
             ],[
-                InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/mrdevilmater'),
                 InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
-            ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻', url='http://t.me/adithyanedanaduofficial')
             ]]
         else:
             buttons = [[
-                InlineKeyboardButton('📮 ᴄᴏᴍᴘʟᴀɪɴᴛꜱ/ ꜰᴇᴇᴅʙᴀᴄᴋ', url='http://t.me/mrdevilmater')
-            ],[
                 InlineKeyboardButton('ᴍᴇɴᴜ ⚙', callback_data='help'),
-                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/{temp.U_NAME}?startgroup=true')
+                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/mytelefilterbot?startgroup=true')
             ],[
-                InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/mrdevilmater'),
                 InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
-            ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻', url='http://t.me/adithyanedanaduofficial')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMAQ") 
@@ -111,27 +101,17 @@ async def start(client, message):
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         if PREMIUM_AND_REFERAL_MODE == True:
             buttons = [[
-                InlineKeyboardButton('📮 ᴄᴏᴍᴘʟᴀɪɴᴛꜱ/ ꜰᴇᴇᴅʙᴀᴄᴋ', url='http://t.me/mrdevilmater')
-            ],[
                 InlineKeyboardButton('ᴍᴇɴᴜ ⚙', callback_data='help'),
-                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/{temp.U_NAME}?startgroup=true')
+                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/mytelefilterbot?startgroup=true')
             ],[
-                InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/mrdevilmater'),
                 InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
-            ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻', url='http://t.me/adithyanedanaduofficial')
             ]]
         else:
             buttons = [[
-                InlineKeyboardButton('📮 ᴄᴏᴍᴘʟᴀɪɴᴛꜱ/ ꜰᴇᴇᴅʙᴀᴄᴋ', url='http://t.me/mrdevilmater')
-            ],[
                 InlineKeyboardButton('ᴍᴇɴᴜ ⚙', callback_data='help'),
-                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/{temp.U_NAME}?startgroup=true')
+                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/mytelefilterbot?startgroup=true')
             ],[
-                InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/mrdevilmater'),
                 InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
-            ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻', url='http://t.me/adithyanedanaduofficial')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)      
         await message.reply_photo(
@@ -162,27 +142,17 @@ async def start(client, message):
         else:
             if PREMIUM_AND_REFERAL_MODE == True:
                 buttons = [[
-                InlineKeyboardButton('📮 ᴄᴏᴍᴘʟᴀɪɴᴛꜱ/ ꜰᴇᴇᴅʙᴀᴄᴋ', url='http://t.me/mrdevilmater')
-            ],[
                 InlineKeyboardButton('ᴍᴇɴᴜ ⚙', callback_data='help'),
-                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/{temp.U_NAME}?startgroup=true')
+                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/mytelefilterbot?startgroup=true')
             ],[
-                InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/mrdevilmater'),
                 InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
-            ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻', url='http://t.me/adithyanedanaduofficial')
             ]]
             else:
                 buttons = [[
-                InlineKeyboardButton('📮 ᴄᴏᴍᴘʟᴀɪɴᴛꜱ/ ꜰᴇᴇᴅʙᴀᴄᴋ', url='http://t.me/mrdevilmater')
-            ],[
                 InlineKeyboardButton('ᴍᴇɴᴜ ⚙', callback_data='help'),
-                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/{temp.U_NAME}?startgroup=true')
+                InlineKeyboardButton('🪄 ᴍᴀɢɪᴄ', url='http://t.me/mytelefilterbot?startgroup=true')
             ],[
-                InlineKeyboardButton('ᴏᴡɴᴇʀ 🧠', url='http://t.me/mrdevilmater'),
                 InlineKeyboardButton('📝 ʀᴇᴀᴅ ᴛʜɪꜱ', callback_data='about')
-            ],[
-                InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻', url='http://t.me/adithyanedanaduofficial')
             ]]
             reply_markup = InlineKeyboardMarkup(buttons)
             m=await message.reply_sticker("CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMAQ") 
@@ -246,7 +216,7 @@ async def start(client, message):
                         text=f"•• ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴇᴅ ꜰᴏʀ ɪᴅ #{user_id} \n•• ᴜꜱᴇʀɴᴀᴍᴇ : {username} \n\n•• ᖴᎥᒪᗴ Nᗩᗰᗴ : {fileName}",
                         quote=True,
                         disable_web_page_preview=True,
-                        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('❤️‍🔥 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻', url='http://t.me/mrdevilmater')]])  # web stream Link
+                        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton('🎥 𝚃𝙶 സിനിമാക്കാരൻ 🍿', url='https://t.me/+UjNSfaQK1bU3ZTFl')]])  # web stream Link
                     )
                 if STREAM_MODE == True:
                     button = [[

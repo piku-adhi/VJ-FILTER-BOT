@@ -14,7 +14,7 @@ class script(object):
 
 <blockquote>🔎 Note: Please ensure you send the movie name in the correct format by checking on Google. This helps us find the exact movie you want quickly and accurately.</blockquote>
 
-🍿 Enjoy your movies with <a href="https://t.me/mytelefilterbot">ᴀᴅɪᴛʜʏᴀɴ ᴇᴅᴀɴᴀᴅᴜ💻</a> !</b>"""
+🍿 Enjoy your movies with <a href="https://t.me/mytelefilterbot">🎥 𝚃𝙶 സിനിമാക്കാരൻ 🍿</a> !</b>"""
 
     HELP_TXT = """<b>{} Choose an option from the menu below to proceed 💬</b>"""
 
